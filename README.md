@@ -91,30 +91,32 @@ Here are some screenshots
 
 **Architecture**
 
-![Architecture Diagram](/screenshots/architecture.png)
+![Architecture](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/architecture.png?raw=true)
 
 **ECS Cluster**
 
-![ECS Cluster](/screenshots/cluster.png)
+![ECS Cluster](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/cluster.png?raw=true)
 
 **Task Definition**
 
-![Task Definition](/screenshots/task.png)
+![Task](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/task.png?raw=true)
 
 **ALB**
 
-![ALB](/screenshots/alb.png)
+![ALB](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/alb.png?raw=true)
 
 **RDS**
 
-![RDS](/screenshots/rds.png)
+![RDS](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/rds.png?raw=true)
 
 **Spacelift**
 
-![Spacelift](/screenshots/spacelift.png)
+![Spacelift](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/spacelift.png?raw=true)
 
 **WordPress**
-![Wordpress](/screenshots/wps.png)
+
+![WordPress](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/wps.png?raw=true)
+
 
 
 🫡 Author
