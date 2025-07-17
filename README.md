@@ -91,30 +91,30 @@ Here are some screenshots
 
 **Architecture**
 
-![Architecture Diagram](./screenshots/architecture.png)
+![Architecture Diagram](/screenshots/architecture.png)
 
 **ECS Cluster**
 
-![ECS Cluster](./screenshots/cluster.png)
+![ECS Cluster](/screenshots/cluster.png)
 
 **Task Definition**
 
-![Task Definition](./screenshots/task.png)
+![Task Definition](/screenshots/task.png)
 
 **ALB**
 
-![ALB](./screenshots/alb.png)
+![ALB](/screenshots/alb.png)
 
 **RDS**
 
-![RDS](./screenshots/rds.png)
+![RDS](/screenshots/rds.png)
 
 **Spacelift**
 
-![Spacelift](./screenshots/spacelift.png)
+![Spacelift](/screenshots/spacelift.png)
 
 **WordPress**
-![Wordpress](./screenshots/wps.png)
+![Wordpress](/screenshots/wps.png)
 
 
 🫡 Author
