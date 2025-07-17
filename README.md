@@ -89,27 +89,7 @@ Here are some screenshots
 
 ## 📸 Screenshots
 
-**Architecture**
 ![Architecture](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/architecture.png?raw=true)
-
-**ECS Cluster**
-![ECS Cluster](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/cluster.png?raw=true)
-
-**Task Definition**
-![Task Definition](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/task.png?raw=true)
-
-**ALB**
-![ALB](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/alb.png?raw=true)
-
-**RDS**
-![RDS](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/rds.png?raw=true)
-
-**Spacelift**
-![Spacelift](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/spacelift.png?raw=true)
-
-**WordPress**
-![WordPress](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/wps.png?raw=true)
-
 
 
 🫡 Author
