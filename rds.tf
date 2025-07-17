@@ -14,6 +14,7 @@ resource "aws_db_subnet_group" "main" {
 
 # -------- RDS MySQL Instance --------
 resource "aws_db_instance" "wordpress" {
+  identifier             = "${var.project_name}-db" # Unique name for my db
   allocated_storage    = 20              # 20 GB storage for DB
   storage_type         = "gp2"           # General Purpose SSD
   engine               = "mysql"         # DB engine
@@ -27,8 +28,10 @@ resource "aws_db_instance" "wordpress" {
   # Attach RDS SG to control who can connect (only ECS)
   vpc_security_group_ids = [aws_security_group.rds_sg.id]
 
-  # Don't keep final snapshot when destroying
+  # Don't keep final snapshot when destroying, i'll only do this for dev stages
   skip_final_snapshot = true
+
+  backup_retention_period = 7  # Keep daily backups for 7 days, you can increase or decrease as needed (similar to what you are insturcted on Console)
 
   # tag for clarity or just incase moments of confusion
   tags = {
