@@ -90,40 +90,25 @@ Here are some screenshots
 ## 📸 Screenshots
 
 **Architecture**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/architecture.png?raw=true" alt="Architecture Diagram" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/architecture.png" alt="Architecture Diagram" width="800"/>
 
 **ECS Cluster**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/cluster.png?raw=true" alt="ECS Cluster" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/cluster.png" alt="ECS Cluster" width="800"/>
 
 **Task Definition**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/task.png?raw=true" alt="Task Definition" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/task.png" alt="Task Definition" width="800"/>
 
 **ALB**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/alb.png?raw=true" alt="ALB" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/alb.png" alt="ALB" width="800"/>
 
 **RDS**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/rds.png?raw=true" alt="RDS" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/rds.png" alt="RDS" width="800"/>
 
 **Spacelift**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/spacelift.png?raw=true" alt="Spacelift" width="800"/>
-</div>
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/spacelift.png" alt="Spacelift" width="800"/>
 
 **WordPress**  
-<div align="center">
-  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/wps.png?raw=true" alt="WordPress" width="800"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/wps.png" alt="WordPress" width="800"/>
 
 
 🫡 Author
