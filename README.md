@@ -89,28 +89,40 @@ Here are some screenshots
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 **Architecture**  
-![Architecture](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/architecture.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/architecture.png?raw=true" alt="Architecture Diagram" width="800"/>
+</div>
 
 **ECS Cluster**  
-![ECS Cluster](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/cluster.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/cluster.png?raw=true" alt="ECS Cluster" width="800"/>
+</div>
 
 **Task Definition**  
-![Task Definition](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/task.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/task.png?raw=true" alt="Task Definition" width="800"/>
+</div>
 
 **ALB**  
-![ALB](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/alb.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/alb.png?raw=true" alt="ALB" width="800"/>
+</div>
 
 **RDS**  
-![RDS](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/rds.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/rds.png?raw=true" alt="RDS" width="800"/>
+</div>
 
 **Spacelift**  
-![Spacelift](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/spacelift.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/spacelift.png?raw=true" alt="Spacelift" width="800"/>
+</div>
 
 **WordPress**  
-![WordPress](https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/wps.png?raw=true)
+<div align="center">
+  <img src="https://github.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/blob/main/screenshots/wps.png?raw=true" alt="WordPress" width="800"/>
+</div>
 
 
 
