@@ -87,28 +87,21 @@ Add a budget alarm!
 
 Here are some screenshots
 
-## 📸 Screenshots
+## 📸 Full Walkthrough & Screenshots
 
-**Architecture**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/architecture.png" alt="Architecture Diagram" width="800"/>
+Having issues seeing the images here?  
+👉 [Check the full story with all the working architecture diagram, cluster setup, Spacelift pipeline & screenshots on my Dev.to!](https://dev.to/akingbade_omosebi/deploying-a-fully-functional-multi-az-wordpress-app-on-aws-ecs-rds-with-terraform-spacelift-1e99)
 
-**ECS Cluster**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/cluster.png" alt="ECS Cluster" width="800"/>
+I break down:
+- The Architecture diagram
+- ECS Cluster & Task Definition
+- ALB & RDS
+- Spacelift CI/CD
+- Live proof screenshots
 
-**Task Definition**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/task.png" alt="Task Definition" width="800"/>
+If you wanna follow step by step or show it to recruiters — Dev.to got you, **100% visual, no broken links.**
 
-**ALB**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/alb.png" alt="ALB" width="800"/>
-
-**RDS**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/rds.png" alt="RDS" width="800"/>
-
-**Spacelift**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/spacelift.png" alt="Spacelift" width="800"/>
-
-**WordPress**  
-<img src="https://raw.githubusercontent.com/AkingbadeOmosebi/rds-ecs-wordpress-terraform/main/screenshots/wps.png" alt="WordPress" width="800"/>
+🔥 [Read it here!](https://dev.to/akingbade_omosebi/deploying-a-fully-functional-multi-az-wordpress-app-on-aws-ecs-rds-with-terraform-spacelift-1e99)
 
 
 🫡 Author
