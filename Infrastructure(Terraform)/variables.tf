@@ -34,3 +34,10 @@ variable "db_name" {
   type        = string
   default     = "wordpressdb"
 }
+
+# For AZ flexibility
+variable "availability_zones" {
+  description = "List of availability zones"
+  type        = list(string)
+  default     = ["eu-central-1a", "eu-central-1b"]
+}
