@@ -3,8 +3,8 @@
 resource "aws_db_subnet_group" "main" {
   name = "${var.project_name}-db-subnet-group"
   subnet_ids = [
-    aws_subnet.public_1.id,
-    aws_subnet.public_2.id
+    aws_subnet.private_1.id,
+    aws_subnet.private_2.id
   ]
 
   tags = {
@@ -27,6 +27,8 @@ resource "aws_db_instance" "wordpress" {
 
   # Attach RDS SG to control who can connect (only ECS)
   vpc_security_group_ids = [aws_security_group.rds_sg.id]
+
+  multi_az = true                  # Enable Multi-AZ for high availability
 
   # Don't keep final snapshot when destroying, i'll only do this for dev stages
   skip_final_snapshot = true
